@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Friends</string>
+    <string name="action_logout">Salir</string>
+    <string name="action_map">Ver mapa</string>
+    <string name="action_register">Registrarse</string>
+    <string name="login_with_google">Autenticarse con Google+</string>
+    <string name="login_with_password">Autenticarse con usuario</string>
+    <string name="title_activity_login">Autenticarse con google</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Correo</string>
+    <string name="prompt_password">Contraseña (optional)</string>
+    <string name="action_sign_in">Autenticarse o Registrarse</string>
+    <string name="action_sign_in_short">Autenticarse</string>
+    <string name="error_invalid_email">La dirección de correo es inválida</string>
+    <string name="error_invalid_password">La contraseña es muy corta</string>
+    <string name="error_incorrect_password">Contraseña incorrecta</string>
+    <string name="error_field_required">Requerido!</string>
+    <string name="resgister">Registrarse</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+
+    <string name="title_activity_perfil">Perfil</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
